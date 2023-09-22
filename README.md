@@ -6,15 +6,15 @@
  
  ### Play my games here:
  
-  <a href="https://rawal4sky.itch.io/destiny">
-  <img height="200" width="300" src="https://img.itch.zone/aW1nLzExMzY2ODg3LnBuZw==/315x250%23c/MGkhSr.png"/>
+  <a href="https://rawal-sky.itch.io/cat-sanctuary">
+  <img height="200" width="300" src="https://img.itch.zone/aW1nLzEzNDA2Njc4LnBuZw==/315x250%23c/mAFoR5.png"/>
 </a>
   
-  <a href="https://rawal4sky.itch.io/the-last-one">
+  <a href="https://rawal-sky.itch.io/the-last-one-game">
   <img height="200" width="300" src="https://img.itch.zone/aW1nLzEwMTEwMzI2LnBuZw==/315x250%23c/%2FVxsPN.png"/>
 </a>
 
-  <a href="https://rawal4sky.itch.io/tears-of-the-sand">
+  <a href="https://rawal-sky.itch.io/tears-of-the-sand-game">
   <img height="200" width="300" src="https://img.itch.zone/aW1nLzgyNjM4OTIucG5n/315x250%23c/QxGvIL.png"/>
 </a>
 
