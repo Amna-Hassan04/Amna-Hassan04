@@ -1,55 +1,40 @@
-### Hi, I'm Amna Hassan
+# 👋 Hello, I'm Amna Hassan!
 
-<p>
-  I am a indie game dev. I've been learning game dev for the past 3 years. I also have an interest in web developement so I keep making projects related to web development too. 
-  </p>
- 
- ### Play my games here:
- 
-  <a href="https://rawal-sky.itch.io/cat-sanctuary">
-  <img height="200" width="300" src="https://img.itch.zone/aW1nLzEzNDA2Njc4LnBuZw==/315x250%23c/mAFoR5.png"/>
-</a>
-  
-  <a href="https://rawal-sky.itch.io/the-last-one-game">
-  <img height="200" width="300" src="https://img.itch.zone/aW1nLzEwMTEwMzI2LnBuZw==/315x250%23c/%2FVxsPN.png"/>
-</a>
+**Welcome to my GitHub profile!**  
+I'm a passionate **Game, Web, and AI Developer** with a strong foundation in technology, leadership, and innovation. My journey has taken me through a variety of exciting roles and projects, and I'm thrilled to share my work with the world.
 
-  <a href="https://rawal-sky.itch.io/tears-of-the-sand-game">
-  <img height="200" width="300" src="https://img.itch.zone/aW1nLzgyNjM4OTIucG5n/315x250%23c/QxGvIL.png"/>
-</a>
+## 🚀 About Me
 
- 
- 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="blender" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuejs" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" alt="d3js" width="45" height="45"/>      
-</p>
+- 🎮 **Game Developer**: I love bringing stories to life through immersive gameplay and innovative mechanics.
+- 🌐 **Web Developer**: Crafting responsive, user-friendly websites and applications is my forte.
+- 🤖 **AI Developer**: I enjoy pushing the boundaries of technology, creating intelligent solutions that make a difference.
 
-  
-  ### Lets Connect!
- <a href="https://www.instagram.com/amnahassanmughal04/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
+## 🌟 Achievements
 
- <a href="https://www.linkedin.com/in/amna-hassan-143b76202/">          
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
-</a>
+- 🏆 **Section Leader** at Stanford Code In Place: Mentored aspiring developers, fostering a love for coding and problem-solving.
+- 🎓 **2024 CS50 Puzzle Day Winner** at Harvard: Proud winner of this prestigious event, showcasing my problem-solving and analytical skills.
+- 🥇 **Hackathon Winner** at lablab.ai: Delivered cutting-edge solutions in highly competitive environments.
+- 🌍 **14 International Hackathons**: Gained invaluable experience and knowledge from participating in global tech events.
 
-### Check out my Front end Web development projects on codepen 
- <a href="https://codepen.io/Rawal4Sky">          
-   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" />
-</a>       
+## 🎓 Leadership & Community
 
+- 👩‍💻 **Women in Tech Lead** at GDSC - UET Taxila: Championing diversity and inclusion, empowering women in technology.
 
+## 🔧 Technologies & Tools
 
+- **Languages**: Python, JavaScript, C++, HTML/CSS
+- **Frameworks**: React, Node.js, Streamlit
+- **AI/ML**: TensorFlow, PyTorch, OpenAI, IBM Watson
+- **Game Development**: Unity, Unreal Engine
+- **Tools**: Git, Docker, Postman, VS Code
 
+## 📫 Let's Connect!
+
+I'm always excited to collaborate on new projects and explore innovative ideas. Feel free to reach out to me:
+
+- **LinkedIn**: [linkedin.com/in/amna-hassan](https://www.linkedin.com/in/amna-hassan-143b76202/)
+- **Blog**: [Amna Hassan](https://amnahassan.hashnode.dev/)
+
+---
+
+⭐️ **"Empowering technology, one project at a time."**
