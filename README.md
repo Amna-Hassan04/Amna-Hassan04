@@ -23,11 +23,11 @@ I’ve participated in **30+ international hackathons**, winning awards at Googl
 ## 🏆 Selected Achievements
 
 - ⭐ **Google Generation Scholar 2025–26 (APAC)**
-- 🏆 **Winner — Harvard CS50 Puzzle Day**
+- 🏆 **Winner — Harvard CS50 Puzzle Day 2024 + 2025**
 - 🎮 **Top 9% — GMTK Game Jam 2024**
 - 🏅 **Top 98 — Google AI for Impact Hackathon (APAC)**
 - 🥉 **3rd Place — Claude Hackathon (Gluco Guide)**
-- 🌍 **Section Leader — Stanford Code in Place 2024**
+- 🌍 **Section Leader — Stanford Code in Place 2024 + 2025**
 
 ---
 
